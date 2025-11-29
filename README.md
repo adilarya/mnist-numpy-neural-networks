@@ -119,16 +119,12 @@ Each run produces:
 
 Here is a set of examples from each trained architecture:
 
-SLP Linear
 ![SLP-linear](results/Figure_1.png)
 
-SLP
 ![SLP](results/Figure_2.png)
 
-MLP
 ![MLP](results/Figure_3.png)
 
-CNN
 ![CNN](results/Figure_4.png)
 
 ---
